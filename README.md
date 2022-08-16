@@ -5,7 +5,7 @@ This kind of systems, for determinated parameters, has non-peridioc dynamics. In
 
 In this estudy, was developed an code to solve chaotic system numerycally, in specific for the Rossler System, but it can be easily change to others systems like Lorenz.
 
-As a matter of fact, the objects of estudy here is to visualize the biffurcation diagram, graph of Lyapunov Expoent (both depending on the variation of the parameter b of the Rossler System) and the Strage Acttator, for parameters that turn the positive Lyapunov Expoent, which implies in a dynamic with chaotic behavior.
+As a matter of fact, the objects of estudy here is to visualize the biffurcation diagram, graph of Lyapunov Exponent (both depending on the variation of the parameter b of the Rossler System) and the Strage Acttator, for parameters that turn the Lyapunov Exponent positive, which implies in a dynamic with chaotic behavior.
 
 Bellow are some of the output of the code.
 
