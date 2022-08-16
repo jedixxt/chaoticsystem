@@ -7,7 +7,7 @@ In this estudy, was developed an code to solve chaotic system numerycally, in sp
 
 As a matter of fact, the objects of estudy here is to visualize the biffurcation diagram, graph of Lyapunov Exponent (both depending on the variation of the parameter b of the Rossler System) and the Strage Acttator, for parameters that turn the Lyapunov Exponent positive, which implies in a dynamic with chaotic behavior.
 
-Bellow are some of the output of the code.
+Bellow are some output of the code.
 
 ![rotation](https://user-images.githubusercontent.com/79491133/184262551-a50c8c8f-e5b9-4520-b784-968bca1a8b9c.gif)
 
